@@ -20,13 +20,13 @@
 
 <!--header section start-->
 <section class = "header">
-    <a href="index.html" class="logo">Travel</a>
+    <a href="index.php" class="logo">Travel</a>
 
     <nav class="navbar">
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="package.html">Package</a>
-        <a href="book.html">Book</a>
+        <a href="index.php">Home</a>
+        <a href="about.php">About</a>
+        <a href="package.php">Package</a>
+        <a href="book.php">Book</a>
     </nav>
 
     <div id="menu-btn" class="fas fa-bars"></div>
@@ -50,7 +50,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi pariatur cupiditate sapiente molestiae beatae consequatur.</p>
-                <a href="book.html" class="btn">Book Now</a>
+                <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -62,7 +62,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi pariatur cupiditate sapiente molestiae beatae consequatur.</p>
-                <a href="book.html" class="btn">Book Now</a>
+                <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -73,7 +73,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi pariatur cupiditate sapiente molestiae beatae consequatur.</p>
-                <a href="book.html" class="btn">Book Now</a>
+                <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -84,7 +84,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi pariatur cupiditate sapiente molestiae beatae consequatur.</p>
-                <a href="book.html" class="btn">Book Now</a>
+                <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -95,7 +95,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi pariatur cupiditate sapiente molestiae beatae consequatur.</p>
-                <a href="book.html" class="btn">Book Now</a>
+                <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -106,7 +106,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi pariatur cupiditate sapiente molestiae beatae consequatur.</p>
-                <a href="book.html" class="btn">Book Now</a>
+                <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -117,7 +117,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi pariatur cupiditate sapiente molestiae beatae consequatur.</p>
-                <a href="book.html" class="btn">Book Now</a>
+                <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -128,7 +128,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi pariatur cupiditate sapiente molestiae beatae consequatur.</p>
-                <a href="book.html" class="btn">Book Now</a>
+                <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -139,7 +139,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi pariatur cupiditate sapiente molestiae beatae consequatur.</p>
-                <a href="book.html" class="btn">Book Now</a>
+                <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -150,7 +150,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi pariatur cupiditate sapiente molestiae beatae consequatur.</p>
-                <a href="book.html" class="btn">Book Now</a>
+                <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -161,7 +161,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi pariatur cupiditate sapiente molestiae beatae consequatur.</p>
-                <a href="book.html" class="btn">Book Now</a>
+                <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -173,7 +173,7 @@
             <div class="content">
                 <h3>Adventure and Tour</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi pariatur cupiditate sapiente molestiae beatae consequatur.</p>
-                <a href="book.html" class="btn">Book Now</a>
+                <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
     </div>
@@ -196,10 +196,10 @@
 
         <div class="box">
         <h3>Quick Links</h3>
-        <a href="index.html"> <i class="fas fa-angle-right"></i> Home</a>
-        <a href="about.html"> <i class="fas fa-angle-right"></i> About</a>
-        <a href="package.html"> <i class="fas fa-angle-right"></i> Package</a>
-        <a href="book.html"> <i class="fas fa-angle-right"></i> Book</a>
+        <a href="index.php"> <i class="fas fa-angle-right"></i> Home</a>
+        <a href="about.php"> <i class="fas fa-angle-right"></i> About</a>
+        <a href="package.php"> <i class="fas fa-angle-right"></i> Package</a>
+        <a href="book.php"> <i class="fas fa-angle-right"></i> Book</a>
         </div>
 
         <div class="box">
