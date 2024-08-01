@@ -19,14 +19,14 @@
 
 <!--header section start-->
 <section class = "header">
-    <a href="index.php" class="logo">MOTravel</a>
+    <a href="index.html" class="logo">MOTravel</a>
 
     <nav class="navbar">
-        <a href="index.php">Home</a>
-        <a href="about.php">About</a>
-        <a href="package.php">Package</a>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="package.html">Package</a>
         
-        <a href="book.php">Book</a>
+        <a href="book.html">Book</a>
     </nav>
 
     <div id="menu-btn" class="fas fa-bars"></div>
@@ -44,7 +44,7 @@
                 <div class="content">
                     <span>Explore, Discover, Travel</span>
                     <h3>Travel Around The World</h3>
-                    <a href="package.php" class="btn">Discover More</a>
+                    <a href="package.html" class="btn">Discover More</a>
                 </div>
             </div>
 
@@ -52,7 +52,7 @@
                 <div class="content">
                     <span>Explore, Discover, Travel</span>
                     <h3>Discover The New Places</h3>
-                    <a href="package.php" class="btn">Discover More</a>
+                    <a href="package.html" class="btn">Discover More</a>
                 </div>
             </div>
 
@@ -60,7 +60,7 @@
                 <div class="content">
                     <span>Explore, Discover, Travel</span>
                     <h3>Make Your Tour Worthwhile</h3>
-                    <a href="package.php" class="btn">Discover More</a>
+                    <a href="package.html" class="btn">Discover More</a>
                 </div>
             </div>
         </div>
@@ -117,7 +117,7 @@
     <div class="content">
         <h3>About Us</h3>
         <p>At Raydan Travel, we believe that every journey should be a memorable and enriching experience. Established in [Year], our company has been dedicated to providing top-notch travel services and unforgettable adventures to our valued clients. Our passion for travel and commitment to excellence drives us to offer the best travel solutions tailored to your unique needs and preferences.</p>
-        <a href="about.php" class="btn">Read More</a>
+        <a href="about.html" class="btn">Read More</a>
     </div>
 </section>
 
@@ -136,7 +136,7 @@
             <div class="content">
                 <h3>Adventure and Tours</h3>
                 <p>At Raydan Travel, we offer a variety of travel packages designed to cater to different interests, preferences, and budgets. Our goal is to provide you with a seamless and enjoyable travel experience, no matter where you want to go or what you want to do</p>
-                <a href="book.php" class="btn">Book Now</a>
+                <a href="book.html" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -147,7 +147,7 @@
             <div class="content">
                 <h3>Adventure and Tours</h3>
                 <p>At Raydan Travel, we offer a variety of travel packages designed to cater to different interests, preferences, and budgets. Our goal is to provide you with a seamless and enjoyable travel experience, no matter where you want to go or what you want to do</p>
-                <a href="book.php" class="btn">Book Now</a>
+                <a href="book.html" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -158,12 +158,12 @@
             <div class="content">
                 <h3>Adventure and Tours</h3>
                 <p>At Raydan Travel, we offer a variety of travel packages designed to cater to different interests, preferences, and budgets. Our goal is to provide you with a seamless and enjoyable travel experience, no matter where you want to go or what you want to do</p>
-                <a href="book.php" class="btn">Book Now</a>
+                <a href="book.html" class="btn">Book Now</a>
             </div>
         </div>
     </div>
 
-    <div class="load-more"> <a href="package.php" class="btn">Load More</a></div>
+    <div class="load-more"> <a href="package.html" class="btn">Load More</a></div>
 </section>
 
 <!--home packages section end-->
@@ -175,7 +175,7 @@
     <div class="content">
         <h3>Up To 50% Off</h3>
         <p>At Raydan Travel, we believe that everyone should have the opportunity to explore the world without breaking the bank. That’s why we offer a variety of special offers and discounts to help you save on your next adventure. Check out our current promotions and take advantage of these fantastic deals:</p>
-        <a href="book.php" class="btn">Book Now</a>
+        <a href="book.html" class="btn">Book Now</a>
     </div>
 </section>
 
@@ -188,10 +188,10 @@
 
         <div class="box">
         <h3>Quick Links</h3>
-        <a href="index.php"> <i class="fas fa-angle-right"></i> Home</a>
-        <a href="about.php"> <i class="fas fa-angle-right"></i> About</a>
-        <a href="package.php"> <i class="fas fa-angle-right"></i> Package</a>
-        <a href="book.php"> <i class="fas fa-angle-right"></i> Book</a>
+        <a href="index.html"> <i class="fas fa-angle-right"></i> Home</a>
+        <a href="about.html"> <i class="fas fa-angle-right"></i> About</a>
+        <a href="package.html"> <i class="fas fa-angle-right"></i> Package</a>
+        <a href="book.html"> <i class="fas fa-angle-right"></i> Book</a>
         </div>
 
         <div class="box">
