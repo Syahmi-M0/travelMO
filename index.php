@@ -19,10 +19,10 @@
 
 <!--header section start-->
 <section class = "header">
-    <a href="home.php" class="logo">MOTravel</a>
+    <a href="index.php" class="logo">MOTravel</a>
 
     <nav class="navbar">
-        <a href="home.php">Home</a>
+        <a href="index.php">Home</a>
         <a href="about.php">About</a>
         <a href="package.php">Package</a>
         
@@ -37,8 +37,8 @@
 
 <!--home section start-->
 
-<section class="home">
-    <div class="swiper home-slider">
+<section class="index">
+    <div class="swiper index-slider">
         <div class="swiper-wrapper">
             <div class="swiper-slide slide" style="background:url(images/home-slider1.jpg) no-repeat">
                 <div class="content">
@@ -109,7 +109,7 @@
 
 <!--home about section start-->
 
-<section class="home-about">
+<section class="index-about">
     <div class="image">
         <img src="images/about-us.jpg" alt="">
     </div>
@@ -125,7 +125,7 @@
 
 
 <!--home packages section start-->
-<section class="home-packages">
+<section class="index-packages">
     <h1 class="heading-title">Our Packages</h1>
     <div class="box-container">
 
@@ -171,7 +171,7 @@
 
 <!--home offer section start-->
 
-<section class="home-offer">
+<section class="index-offer">
     <div class="content">
         <h3>Up To 50% Off</h3>
         <p>At Raydan Travel, we believe that everyone should have the opportunity to explore the world without breaking the bank. That’s why we offer a variety of special offers and discounts to help you save on your next adventure. Check out our current promotions and take advantage of these fantastic deals:</p>
@@ -188,7 +188,7 @@
 
         <div class="box">
         <h3>Quick Links</h3>
-        <a href="home.php"> <i class="fas fa-angle-right"></i> Home</a>
+        <a href="index.php"> <i class="fas fa-angle-right"></i> Home</a>
         <a href="about.php"> <i class="fas fa-angle-right"></i> About</a>
         <a href="package.php"> <i class="fas fa-angle-right"></i> Package</a>
         <a href="book.php"> <i class="fas fa-angle-right"></i> Book</a>
